@@ -25,6 +25,7 @@ public class HomePage extends base{
 	public void initialize() throws IOException
 	{
 	
+		System.out.println("new comment gotm gitrepo");
 		 driver =initializeDriver();
 
 	}
