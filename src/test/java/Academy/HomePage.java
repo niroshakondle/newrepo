@@ -28,7 +28,7 @@ public class HomePage extends base{
 		System.out.println("new comment gotm gitrepo");
 		System.out.println("another change by gitx");
 		System.out.println("repo branch");
-		
+		System.out.println("GitX branch");
 		 driver =initializeDriver();
 
 	}
